@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nirav Raj\\Desktop\\day29\\CabInvaloceTest\\CabInvaloceTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nirav Raj\\Desktop\\day29\\CabInvaloceTest\\CabInvaloceTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CabInvaloceTest\\CabInvaloceTest.csproj",
+        "projectName": "CabInvaloceTest",
+        "projectPath": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CabInvaloceTest\\CabInvaloceTest.csproj",
+        "packagesPath": "C:\\Users\\Nirav Raj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CabInvaloceTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nirav Raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Nirav Raj\\Desktop\\day29\\CABINVOICEGEN\\CABINVOICEGEN.csproj": {
+                "projectPath": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CABINVOICEGEN\\CABINVOICEGEN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nirav Raj\\Desktop\\day29\\CABINVOICEGEN\\CABINVOICEGEN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CABINVOICEGEN\\CABINVOICEGEN.csproj",
+        "projectName": "CABINVOICEGEN",
+        "projectPath": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CABINVOICEGEN\\CABINVOICEGEN.csproj",
+        "packagesPath": "C:\\Users\\Nirav Raj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nirav Raj\\Desktop\\day29\\CABINVOICEGEN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nirav Raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
